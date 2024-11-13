@@ -1,6 +1,6 @@
 # Izanami Algorithm
 
-![Izanami](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Izanami]([https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://i.imgur.com/vDGRwEE.gif))
 
 **IzanamiAlgorithm** is an enhanced, Izanami-inspired Node.js library designed to handle complex tasks with robust error monitoring and reflection mechanisms. Drawing inspiration from the **Izanami** genjutsu technique in the Naruto series, this algorithm not only manages retries for failed tasks but also enforces a reflection phase to encourage introspection and improvement after encountering repeated errors.
 
