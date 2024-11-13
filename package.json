@@ -1,0 +1,25 @@
+{
+  "name": "izanami-algorithm",
+  "version": "1.0.0",
+  "description": "An enhanced Izanami-inspired algorithm for handling complex tasks with reflection phases.",
+  "main": "src/IzanamiAlgorithm.js",
+  "scripts": {
+    "start": "node src/tasks/fetchData.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "Izanami",
+    "Algorithm",
+    "Error Handling",
+    "Node.js",
+    "Genjutsu"
+  ],
+  "author": "Abdul Wasay Ahmed",
+  "license": "MIT",
+  "dependencies": {
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
